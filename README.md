@@ -14,6 +14,8 @@ Start Worker: `./minion-worker.pl minion worker`
 
 View Jobs: `./minion-worker.pl minion job`
 
+Start Mojolicious Web App: `morbo mojominion/script/mojominion`
+
 Admin Console: http://127.0.0.1:3000/admin
 
 Adding Jobs to the Queue:

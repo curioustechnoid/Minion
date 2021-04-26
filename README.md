@@ -4,7 +4,7 @@
 
 This has the complete source code of the demonstration done in:
 
-[Blog on Minion](https://thecurioustechnoid.com/mojolicious-minion---a-high-performance-job-queue/)
+[Blog on Minion](https://thecurioustechnoid.com/mojolicious-minion-a-high-performance-job-queue/)
 
 [Video Tutorial](https://youtu.be/Icc9YOOF414)
 
